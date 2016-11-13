@@ -1,0 +1,21 @@
+{
+  "name": "http-cli",
+  "version": "0.0.1",
+  "description": "simple api for making http requests",
+  "main": "http.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin": {
+    "http": "http.js",
+    "parse-json": "json-parser.js"
+  },
+  "keywords": [
+    "http",
+    "cli",
+    "simple",
+    "curl"
+  ],
+  "author": "Charles T Wall III",
+  "license": "MIT"
+}
